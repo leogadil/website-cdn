@@ -41,8 +41,8 @@
                 }
             ],
             "images": [
-                "assets/atlas/screenshot_01.png",
-                "assets/atlas/screenshot_01.png"
+                "atlas-screenshot_01.png",
+                "atlas-screenshot_01.png"
             ],
             "videos": [
                 {
@@ -75,9 +75,9 @@
                 }
             ],
             "images": [
-                "assets/payroool/screenshot_01.png",
-                "assets/payroool/screenshot_02.png",
-                "assets/payroool/screenshot_03.png"
+                "payroool-screenshot_01.png",
+                "payroool-screenshot_02.png",
+                "payroool-screenshot_03.png"
             ],
             "videos": [
                 {
