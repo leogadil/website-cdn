@@ -4,7 +4,7 @@
             "name": "samantha",
             "slug": "samantha-project",
             "title": "Samantha",
-            "cover": "assets/samantha/cover.jpg",
+            "cover": "samantha/cover.jpg",
             "description": "Engine 3 is the third iteration of the Samantha Engine. Samantha engine is the core and the framework of what an assistant interface might be like. its design is modular so it's easy to add functionality to the framework.",
             "short_description": "is a natural language intelligent digital assistant.",
             "properties": [
@@ -25,7 +25,7 @@
             "name": "atlas",
             "slug": "atlas-chatbot",
             "title": "Atlas",
-            "cover": "assets/atlas/cover.jpg",
+            "cover": "atlas/cover.jpg",
             "description": "is a digital chatbot that can answer questions about the given restaurant and order food through it.",
             "short_description": "is a restaurant chatbot. You can ask questions about the restaurant.",
             "properties": [
@@ -55,7 +55,7 @@
             "name": "payroool",
             "slug": "payroool-program",
             "title": "Payroool",
-            "cover": "",
+            "cover": "payroool/cover.jpg",
             "description": "is a simple program to manage payrolls in company. this manage the employees and compute their salaries accordingly.",
             "short_description": "is a payroll management program.",
             "properties": [
