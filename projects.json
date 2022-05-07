@@ -22,6 +22,32 @@
             "videos": []
         },
         {
+            "name": "spaceverse",
+            "slug": "spaceverse",
+            "title": "SpaceVerse",
+            "cover": "spaceverse-cover.jpg",
+            "description": "SpaceVerse is an app for productivity. A place where you can focus on your task at hand while you travel around the world on your own desk. its still on its early stages and is still under development.",
+            "short_description": "is an app for productivity while you travel around the world.",
+            "properties": [
+                {
+                    "title": "Tech-Stack",
+                    "value": "React, Redux, Node, MongoDB, Express, Socket.io"
+                },
+                {
+                    "title": "Platform",
+                    "value": "Windows, Linux, MacOS"
+                }
+            ],
+            "links": [
+                {
+                    "title": "Website",
+                    "url": "https://spaceverse.leogadil.com"
+                }
+            ],
+            "images": [],
+            "videos": []
+        },
+        {
             "name": "atlas",
             "slug": "atlas-chatbot",
             "title": "Atlas",
